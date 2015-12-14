@@ -1,0 +1,12 @@
+{
+  "name": "aws-iot-device-sdk-arduino-yun",
+  "keywords": "aws,iot,yun",
+  "description": "SDK for connecting to AWS IoT from an Arduino Yún.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/aequitas/aws-iot-device-sdk-arduino-yun.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
